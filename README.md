@@ -17,4 +17,5 @@
 * Sequential Approach is Better than Dask Approach.
 * Dask seems to be infeffective to handle Pre determined Objects
 * By below Task stream image, there's lot of waiting time when using Dask Because of the Transformer Object.
+* Sequential Approach Takes around 95 sec for 30000 satellites.
 ![image](https://github.com/YOUAREGOINGTO/CodeOptimization/assets/106869151/98e6751c-bd1a-46f3-aa9d-f5e96177bf27)
