@@ -6,7 +6,7 @@
 * Using Dask Bag as Data is Unstructured and Dak Bag has map , filter functions.
 * Code can be Easily scaled By Replacing Local Cluster with Required Cloud Cluster.(Production Ready Code)
 *Cluster has n_workers argument but no need to pass as Dask can automatically assign workers based on Computation resources.
-* We can use Adaptive Scaling for setting max and min workers.(Cloud Clusters
+* We can use Adaptive Scaling for setting max and min workers.
 # Computation Time
 * Sequential Approach Takes 55 sec and where as Dask Approach takes 30 secs.(For 41 Satellites). We can Scale to Cloud Cluster for 30000 satellites
 * Most of the time is wasted at function ecef2lla
